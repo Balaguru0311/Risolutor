@@ -1,0 +1,19 @@
+.like-button {  
+    background-color: grey;   
+    color: white;  
+    border: none;  
+    padding: 10px 20px;  
+    text-align: center;  
+    text-decoration: none;  
+    display: inline-block;  
+    font-size: 16px;  
+    cursor: pointer;  
+}  
+
+.liked {  
+    background-color: #45a049;  
+}  
+
+.likes-counter {  
+    font-weight: bold;  
+}

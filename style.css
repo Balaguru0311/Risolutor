@@ -17,3 +17,7 @@
 .likes-counter {  
     font-weight: bold;  
 }
+
+input{
+    min-width: 240px;
+}
